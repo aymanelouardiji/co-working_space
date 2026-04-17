@@ -12,7 +12,7 @@
 	<artifactId>friends-workspace</artifactId>
 	<version>1.0.0</version>
 	<name>friends-workspace</name>
-	<description>Friends Workspace — Co-working Desk Booking &amp; Amenity Management System</description>
+	<description>Friends Workspace - Desk Booking and Amenity Management System</description>
 	<properties>
 		<java.version>17</java.version>
 		<lombok.version>1.18.36</lombok.version>
