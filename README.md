@@ -22,4 +22,4 @@ npm run dev
 ## Notes
 This is a group project.
 
-This project was developed as a group work by me and Ilyass El Allaoui.
+This project was developed as a group work by me and Ilyas El Alaoui Saleh.
